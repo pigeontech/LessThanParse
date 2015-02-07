@@ -1,0 +1,3 @@
+[
+    { "command": "less_than_parse", "caption": "Convert < to &lt;" }
+]
